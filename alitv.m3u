@@ -1,9 +1,30 @@
 #EXTM3U
-#EXTINF:-1, Kurtlar Vadisi Pusu - 1. Bolum
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/06/Kurtlar_Vadisi_Pusu_logosu.png" group-title="Kurtlar Vadisi Pusu", Bölüm 1
 https://inv.tux.rs/latest_version?id=FqGjR_9_Btw&itag=22
 
-#EXTINF:-1, Kurtlar Vadisi Pusu - 2. Bolum
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/06/Kurtlar_Vadisi_Pusu_logosu.png" group-title="Kurtlar Vadisi Pusu", Bölüm 2
 https://inv.tux.rs/latest_version?id=Xz2X89Y93nU&itag=22
 
-#EXTINF:-1, Kurtlar Vadisi Pusu - 3. Bolum
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/06/Kurtlar_Vadisi_Pusu_logosu.png" group-title="Kurtlar Vadisi Pusu", Bölüm 3
 https://inv.tux.rs/latest_version?id=8qU7I5z6t2U&itag=22
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/06/Kurtlar_Vadisi_Pusu_logosu.png" group-title="Kurtlar Vadisi Pusu", Bölüm 4
+https://inv.tux.rs/latest_version?id=e_pI09X5s7c&itag=22
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/06/Kurtlar_Vadisi_Pusu_logosu.png" group-title="Kurtlar Vadisi Pusu", Bölüm 5
+https://inv.tux.rs/latest_version?id=R_98p2q_kL0&itag=22
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/06/Kurtlar_Vadisi_Pusu_logosu.png" group-title="Kurtlar Vadisi Pusu", Bölüm 6
+https://inv.tux.rs/latest_version?id=h3V_z2m4r7Q&itag=22
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/06/Kurtlar_Vadisi_Pusu_logosu.png" group-title="Kurtlar Vadisi Pusu", Bölüm 7
+https://inv.tux.rs/latest_version?id=N7W8sX2v9kM&itag=22
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/06/Kurtlar_Vadisi_Pusu_logosu.png" group-title="Kurtlar Vadisi Pusu", Bölüm 8
+https://inv.tux.rs/latest_version?id=ZpL3mQ7rX5E&itag=22
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/06/Kurtlar_Vadisi_Pusu_logosu.png" group-title="Kurtlar Vadisi Pusu", Bölüm 9
+https://inv.tux.rs/latest_version?id=G6t5R9w2nYc&itag=22
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/06/Kurtlar_Vadisi_Pusu_logosu.png" group-title="Kurtlar Vadisi Pusu", Bölüm 10
+https://inv.tux.rs/latest_version?id=K8v2M7n6pXw&itag=22
