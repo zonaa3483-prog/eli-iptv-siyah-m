@@ -1,30 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/06/Kurtlar_Vadisi_Pusu_logosu.png", Bölüm 1
-https://vk.com/video_ext.php?oid=-676864465&id=456240212&hash=064e4a7a8d6b4f1a
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/06/Kurtlar_Vadisi_Pusu_logosu.png", Bölüm 2
-https://vk.com/video_ext.php?oid=-676864465&id=456240213&hash=123e4b7a8d6b4f2b
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/06/Kurtlar_Vadisi_Pusu_logosu.png", Bölüm 3
-https://vk.com/video_ext.php?oid=-676864465&id=456240214&hash=234e4c7a8d6b4f3c
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/06/Kurtlar_Vadisi_Pusu_logosu.png", Bölüm 4
-https://vk.com/video_ext.php?oid=-676864465&id=456240215&hash=345e4d7a8d6b4f4d
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/06/Kurtlar_Vadisi_Pusu_logosu.png", Bölüm 5
-https://vk.com/video_ext.php?oid=-676864465&id=456240216&hash=456e4e7a8d6b4f5e
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/06/Kurtlar_Vadisi_Pusu_logosu.png", Bölüm 6
-https://vk.com/video_ext.php?oid=-676864465&id=456240217&hash=567e4f7a8d6b4f6f
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/06/Kurtlar_Vadisi_Pusu_logosu.png", Bölüm 7
-https://vk.com/video_ext.php?oid=-676864465&id=456240218&hash=678e4g7a8d6b4f7g
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/06/Kurtlar_Vadisi_Pusu_logosu.png", Bölüm 8
-https://vk.com/video_ext.php?oid=-676864465&id=456240219&hash=789e4h7a8d6b4f8h
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/06/Kurtlar_Vadisi_Pusu_logosu.png", Bölüm 9
-https://vk.com/video_ext.php?oid=-676864465&id=456240220&hash=890e4i7a8d6b4f9i
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/06/Kurtlar_Vadisi_Pusu_logosu.png", Bölüm 10
-https://vk.com/video_ext.php?oid=-676864465&id=456240221&hash=901e4j7a8d6b4f0j
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/06/Kurtlar_Vadisi_Pusu_logosu.png", Kurtlar Vadisi Pusu - 1. Bolum
+https://cors-proxy.org/?url=https://vk.com/video_ext.php?oid=-676864465&id=456240212&hash=064e4a7a8d6b4f1a
